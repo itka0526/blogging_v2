@@ -1,0 +1,11 @@
+.blog-editor-container .ql-container .ql-snow {
+    height: auto;
+}
+.blog-editor-container .ql-container .ql-editor {
+    box-sizing: border-box;
+    height: calc(100% - 5px);
+    overflow-y: scroll;
+}
+.blog-editor-container .ql-toolbar {
+    border: 1px solid #ccc !important;
+}
